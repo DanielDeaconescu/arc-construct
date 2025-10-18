@@ -89,7 +89,7 @@
                                     </a>
                                 </li>
                                 <li class="list-group-item d-flex">
-                                    <a href="" target="_blank"
+                                    <a href="https://www.facebook.com/profile.php?id=61581968116717" target="_blank"
                                         class="text-decoration-none fs-4 text-dark d-flex align-items-center fw-bold contact-info-link gap-2">
                                         <i class="fa-brands fa-square-facebook fa-2x"></i>
                                         Pagina de Facebook
